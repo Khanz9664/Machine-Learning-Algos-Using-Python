@@ -1,1 +1,1 @@
-# Machine-Learning-Algo-s-Using-Python
+# Machine-Learning-Algos-Using-Python
