@@ -24,8 +24,10 @@ As this project grows, more algorithms will be added, covering various aspects o
 
 ## 🚀 Getting Started
 
-To get started with these algorithms:
+To get started with these algorithms:-
+
    -You need to have basic understanding of python.
+   
    -You need be aware with python libraries (numpy, pandas, matplotlib, sklearn,... etc.)
 
 1. **Clone the repository**:
