@@ -18,8 +18,13 @@ classfier.fit(X_train, Y_train)
 
 Y_predict = classfier.predict(X_test)
 
+'''Here we are calculating the accuracy of the model by giving it the data we have choosen for testing purpose and we check how well the model is performing'''
+
 accuracy = accuracy_score(Y_test, Y_predict)*100
 print("Accuracy : " , accuracy , "%")
+
+
+''' New values are given to the model and it predicts the class of the given values '''
 
 new_predict1 = classfier.predict([[5.1, 3.0, 1.3, 0.4]])
 print("predicted species: ", new_predict1)
