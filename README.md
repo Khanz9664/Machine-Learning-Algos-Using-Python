@@ -13,12 +13,15 @@ As this project grows, more algorithms will be added, covering various aspects o
 
 ## 📜 Algorithms Included
 
-1. **Simple Linear Regression**:
-   - **Description**: Fits a line to a set of data points to predict a continuous target variable.
+1. **Simple Linear Regression**
 
-2. **Decision Tree**:
-   - **Description**: A tree-based model that splits data into different segments to make predictions.
+2. **Decision Tree**
   
+3. **Random Forest**
+
+4. **Logistic Regression**
+
+5. **SVM**
 
 > Additional algorithms will be added in the future, including models for classification, clustering, and deep learning.
 
