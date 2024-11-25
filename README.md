@@ -2,15 +2,6 @@
 
 Welcome to the Machine Learning Algorithms repository! This repo is dedicated to implementing popular machine learning algorithms in Python from scratch and using libraries. The goal is to provide clear, well-documented code for each algorithm, making it easy for others to understand and experiment with.
 
-## 📂 Repository Structure
-
-This repository currently includes:
-
-- **Simple Linear Regression**: A foundational regression model that fits a straight line through the data points.
-- **Decision Tree**: A versatile algorithm for both classification and regression tasks, structured as a tree with decision nodes.
-
-As this project grows, more algorithms will be added, covering various aspects of machine learning.
-
 ## 📜 Algorithms Included
 
 1. **Simple Linear Regression**
